@@ -1,1 +1,2 @@
 Questo è un tentativo di generare un conflitto.
+Questa è una riga inserita nel contesto del branch feature-c.
