@@ -1,1 +1,2 @@
 Questo è un tentativo di generare un conflitto.
+Questa riga è stata inserita direttamente dall'editor web di GitHub.
